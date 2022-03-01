@@ -7,6 +7,18 @@ body {
      padding: 0;
      color: #000;
 }
+
+
+a:link {
+     color: #000000;
+}
+a:visited {
+     color: #000000;
+}
+a:hover, a:active, a:focus { 
+     text-decoration: italic;
+}
+
 .homePage {
 	background: #FFD7A5;
 }
