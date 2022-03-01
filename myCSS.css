@@ -15,7 +15,7 @@ a:visited {
      color: #000000;
 }
 a:hover, a:active, a:focus { 
-     text-decoration: italic;
+     text-decoration: underline;
 }
 
 .homePage {
