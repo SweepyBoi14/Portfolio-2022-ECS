@@ -19,7 +19,7 @@ a:hover, a:active, a:focus {
 }
 
 .homePage {
-	<img src="images/flag.jpg" alt=" " width="1920" height="1080">
+	background: #828CA0;
 }
 .container {
 	width: 960px;
